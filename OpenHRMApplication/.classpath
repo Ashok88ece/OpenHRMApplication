@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Jar/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/cssparser-0.9.11.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/htmlunit-2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/htmlunit-core-js-2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/httpclient-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/jetty-http-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/jetty-io-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/jetty-util-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/jetty-websocket-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/json-20080701.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/nekohtml-1.9.19.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/netty-3.5.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/selenium-android-driver-2.37.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/selenium-api-2.37.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/selenium-chrome-driver-2.37.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/selenium-firefox-driver-2.37.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/selenium-htmlunit-driver-2.37.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/selenium-ie-driver-2.37.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/selenium-iphone-driver-2.37.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/selenium-java-2.37.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/selenium-remote-driver-2.37.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/selenium-safari-driver-2.37.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/selenium-support-2.37.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/webbit-0.4.14.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jar/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
